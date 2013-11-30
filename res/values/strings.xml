@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SelectCars</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="good">Good</string>
+    <string name="ok">Ok</string>
+    <string name="bad">Bad</string>
+    
+    <string name="item0">Body Panels/Moldings/Front &amp; Rear Bumper: No Visible Damage</string>
+    <string name="item1">Paint/Trim: Finish/Appearance/Condition</string>
+    <string name="item2">Windshield/Vehicle Glass: No Chips/No Cracks/No Leaks</string>
+    <string name="item3">Wiper Arms/Blades: Condition/No Damage/No Cracking</string>
+    <string name="item4">Side Mirrors: Appearance/No Damage</string>
+    <string name="item5">Antenna: Present/No Damage</string>
+    <string name="item6">Wheels/Rims: Finish/No Visible Damage</string>
+    <string name="item7">Headlights/High &amp; Low Beam: Clear Lens/Operational/No Damage</string>
+    <string name="item8">Fog Lights(If Applicable): Clear Lens/Operational/No Damage</string>
+    <string name="item9">Tail lights/License Plate Light: Clear Lens/Operational/No Damage</string>
+    
+    <string name="item10">Brake/Reverse/Third Brake Light: Clear Lens/Operational/No Damage</string>
+    <string name="item11">Turn Signal/Hazard Light: Clear Lens/Operational/No Damage</string>
+    <string name="item12">Remote Door Entry: Unlock/Lock Operation</string>
+    <string name="item13">Doors: Open Smooth/No Abnormal Noise</string>
+    <string name="item14">Remote Trunk Entry: Operational</string>
+    <string name="item15">Trunk/Rear Hatch: Open Smooth/No Damage</string>
+    <string name="item16">Jack/Tool Kit: Present</string>
+    <string name="item17">Spare Tire: Condition/Pressure/No Damage</string>
+    <string name="item18">Fuel Door/Cap: Operational/Condition/No Damage</string>
+    <string name="item19">Alarm System/Panic Button: Operational</string>
+   
+    <string name="item20">Overall Exterior: Condition/No Damage</string>
+    
+    <!-- End of First Section -->
+    
+    <string name="item21">Upholstery: Condition/Appearance</string>
+    <string name="item22">Carpet/Floor Mats(If Applicable): Condition/No Excess Wear</string>
+    <string name="item23">Headliner: Condition/No Damage</string>
+    <string name="item24">Sun Visor: Operational/Condition/No Damage</string>
+    <string name="item25">Interior Trim/Console: Finish/Appearance/No Damage</string>
+    <string name="item26">Seats/Adjustment/Heaters(If Applicable): Condition/Operation</string>
+    <string name="item27">Seat Belts: Condition/Operation/No Damage/Fasten Securely</string>
+    <string name="item28">Ignition Switch: Operational/No Excess Wear/No Damage</string>
+    <string name="item29">Warning Chimes: Operational</string>
+    <string name="item30">I.P. Warning Lights: Operational</string>
+	<string name="item31">Instrumental Dash Lighting: Operational</string>
+	<string name="item32">Instrument Cluster/Gauges: Operational/Accurate Information</string>
+	<string name="item33">Air Bags: Condition/Indicator Light Function/No Visible Damage</string>
+	<string name="item34">Clock: Operational/Correct Time Set</string>
+	<string name="item35">Door Handles: Operational/No Damage</string>
+	<string name="item36">Door Locks/Child Safety Locks: Operational/No Damage</string>
+	<string name="item37">Door Panels: Condition/No Damage</string>
+	<string name="item38">Window Controls: Up &amp; Down Operation/No Damage</string>
+	<string name="item39">Side Mirror Controls: Operational/No Damage</string>
+	<string name="item40">Dome/Map/Visor Lights: Operational</string>
+	<string name="item41">Rear View Mirror: Condition/Operation/Day &amp; Night Performance</string>
+	<string name="item42">Vanity Mirror/Light: Condition/Operation/No Damage</string>
+	<string name="item43">Sunroof Controls(If Applicable): Operation/Condition/No Damage</string>
+	<string name="item44">Sunroof Glass/Seals(If Applicable): Condition/Damage/Leaks</string>
+	<string name="item45">Glove Box/Lock/Light: Operational/No Damage</string>
+	<string name="item46">Cup Holders/Coin Tray: Clean/No Damage</string>
+	<string name="item47">12V Power Outlets: Operational/No Damage</string>
+	<string name="item48">Sound System/CD Changer/Speakers: Operation/No Distortion</string>
+	<string name="item49">Navigation System(If Applicable): Operational/Nav Disc Present</string>
+	<string name="item50">Steering Wheel/Adjustments/Lock/Controls: Operational</string>
+	<string name="item51">Horn: Operational</string>
+	<string name="item52">Windshield Wiper/Controls: Operational/Proper Speed Settings</string>
+	<string name="item53">Windshield Washer/Controls: Operational/Accurate Spray Aim</string>
+	<string name="item54">Climate Control/AC/Heater/Defroster/Defogger: Operational</string>
+	<string name="item55">Fuel Door/Trunk/Hood Release: Operational</string>
+	<string name="item56">Trunk Light/Carpet Condition: Operational/Clean/Damage</string>
+	<string name="item57">Overall Interior: Condition/Cleanliness/No Abnormal Odor</string>
+	    
+    <!-- 
+    <string name="item10"></string>
+    <string name="item11"></string>
+    <string name="item12"></string>
+    <string name="item13"></string>
+    <string name="item14"></string>
+    <string name="item15"></string>
+    <string name="item16"></string>
+    <string name="item17"></string>
+    <string name="item18"></string>
+    <string name="item19"></string> -->
+    
+</resources>
